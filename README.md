@@ -11,7 +11,7 @@ bản chiến lược, kèm một cam kết hash cho tài khoản giao dịch.
 Hiện chỉ công bố **hash** của GENESIS (tệp [`GENESIS-HASH.txt`](GENESIS-HASH.txt)):
 
 ```
-08e8d5189f7074a4e5ec20197277f606581861500c6aaf0953cc94e5059fa8df
+35f32d18151048c7d38944e0a69bf082c986963b27caaf2d85d689a1e2e5d86a
 ```
 
 Nội dung đầy đủ (`genesis.json`) sẽ công bố sau. Khi đó, ai cũng tự kiểm được nội dung khớp đúng hash này: hash là
