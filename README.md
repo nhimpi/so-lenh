@@ -28,3 +28,14 @@ tồn tại trước thời điểm nó được neo vào blockchain Bitcoin. Ki
 
 Mỗi ngày giao dịch có một manifest chỉ gồm hash và khoảng số thứ tự sự kiện của sổ, nối chuỗi về hash GENESIS. Sửa bất
 kỳ sự kiện cũ nào cũng làm mọi hash phía sau sai.
+
+## Sửa đổi luật
+
+Luật của sổ chỉ đổi bằng một bản sửa đổi có số thứ tự và ngày hiệu lực, gắn với hash GENESIS. Hash của mỗi bản được công
+bố ở đây kèm dấu OpenTimestamps, và việc nạp bản đó được ghi thành một sự kiện trong chính chuỗi sự kiện của sổ. Bản đã
+nạp không sửa và không gỡ được.
+
+- Bản số 1, hiệu lực từ 2026-11-16 (ngày đầu của sổ, nạp trước lệnh đầu tiên): [`SUA-DOI-1-HASH.txt`](SUA-DOI-1-HASH.txt),
+  dấu thời gian [`SUA-DOI-1-HASH.txt.ots`](SUA-DOI-1-HASH.txt.ots).
+
+Nội dung đầy đủ của các bản sửa đổi công bố cùng lúc với `genesis.json`; cách tính hash giống GENESIS.
