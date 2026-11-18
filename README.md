@@ -37,5 +37,7 @@ nạp không sửa và không gỡ được.
 
 - Bản số 1, hiệu lực từ 2026-11-16 (ngày đầu của sổ, nạp trước lệnh đầu tiên): [`SUA-DOI-1-HASH.txt`](SUA-DOI-1-HASH.txt),
   dấu thời gian [`SUA-DOI-1-HASH.txt.ots`](SUA-DOI-1-HASH.txt.ots).
+- Bản số 2, hiệu lực từ 2026-11-20: [`SUA-DOI-2-HASH.txt`](SUA-DOI-2-HASH.txt), dấu thời gian
+  [`SUA-DOI-2-HASH.txt.ots`](SUA-DOI-2-HASH.txt.ots).
 
 Nội dung đầy đủ của các bản sửa đổi công bố cùng lúc với `genesis.json`; cách tính hash giống GENESIS.
